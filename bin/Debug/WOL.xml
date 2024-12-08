@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<WOL>
+  <item id="1" mac="00:00:00:00:00:00" ip="127.0.0.1" description="Localhost" />
+  <item id="2" mac="01:01:01:01:01:01" ip="" description="Unknown address" />
+  <item id="3" mac="FF:FF:FF:FF:FF:FF" ip="192.168.0.1" description="Shared" />  
+</WOL>

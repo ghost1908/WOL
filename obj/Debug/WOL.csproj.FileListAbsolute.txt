@@ -1,0 +1,7 @@
+D:\MyDocs\Projects\cs\WOL\bin\Debug\WOL.exe.config
+D:\MyDocs\Projects\cs\WOL\bin\Debug\WOL.exe
+D:\MyDocs\Projects\cs\WOL\bin\Debug\WOL.pdb
+D:\MyDocs\Projects\cs\WOL\obj\Debug\WOL.csprojResolveAssemblyReference.cache
+D:\MyDocs\Projects\cs\WOL\obj\Debug\WOL.exe
+D:\MyDocs\Projects\cs\WOL\obj\Debug\WOL.pdb
+D:\MyDocs\Projects\cs\WOL\bin\Debug\WOL.xml
